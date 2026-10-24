@@ -46,5 +46,4 @@ CSS-Mini-Project/
 ## Author
 
 Rony Adhikary
-
 Computer Science Student | Aspiring Full Stack Developer
