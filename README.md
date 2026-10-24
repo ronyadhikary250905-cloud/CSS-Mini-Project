@@ -43,7 +43,22 @@ CSS-Mini-Project/
 - Practiced hover effects and icon styling
 - Learned to organize project files
 
+## GitHub Repository:
+
+Visit Repository:
+https://github.com/ronyadhikary250905-cloud/CSS-Mini-Project.git
+
+## Live Demo
+
+Visit Live Link:
+https://ronyadhikary250905-cloud.github.io/CSS-Mini-Project/
+
 ## Author
 
 Rony Adhikary
+
 Computer Science Student | Aspiring Full Stack Developer
+
+## Acknowledgements
+
+This project was created as part of my web development learning journey.
